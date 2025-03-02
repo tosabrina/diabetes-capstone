@@ -1,4 +1,4 @@
-# diabetes-capstone
+# Optimizing Diabetes Management in US Hospitals (1999-2008)
 ## Table of Contents
 * [Motivation](#motivation)
 * [Questions](#questions)
