@@ -55,7 +55,7 @@ Diabetes Res Clin Pract. 2022 May; 187: 109862. doi:10.1016/j.diabres.2022.10986
 
 
 ## Conclusion:
-1) Demographic Profile:
+1) Demographic Profile: <br />
    ➡ Minimal variability: Mainly Caucasian women <br />
    ➡ Age: Between 50-80 <br />
    ➡ Primary Diagnosis Group: Mainly circulatory - confirms the complexity of diabetes and the comorbidites of a diabetic patient <br />
@@ -63,17 +63,17 @@ Diabetes Res Clin Pract. 2022 May; 187: 109862. doi:10.1016/j.diabres.2022.10986
    
 3) Number of admissions generally has a positive correlation with length of hospital stay.
 
-4) Targeted Interventions within Care:
+4) Targeted Interventions within Care: <br />
    ➡ Readmissions AFTER 30 days of the first discharge was found to be greater than readmissions WITHIN 30 days, especially patients with more than 6 outpatient visits one year prior to their admission (documented within this
    dataset). Focus resources and efforts on outpatient care.
 
-6) Profile of Higher-Risk Patients:
+6) Profile of Higher-Risk Patients: <br />
    ➡ Emergency room patients <br />
    ➡ Frequent in-patient visits <br />
    ➡ Higher number of outpatient visits <br />
    ➡ Higher medication count <br />
 
-7) Call to Action:
+7) Call to Action: <br />
   ➡ Hospital Staff: Enhance discharge planning for high-risk patients. <br />
   ➡ Administrators: Allocate resources for diabetes education programs. <br />
   ➡ Care Coordinators: Focus on frequent emergency room patients to prevent readmissions. <br />
