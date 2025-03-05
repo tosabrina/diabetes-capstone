@@ -4,8 +4,8 @@
 * [Questions](#questions)
 * [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
-* [Sources](#sources)
 * [Conclusion](#conclusion)
+* [Sources](#sources)
 
 
 # Overview:
@@ -33,27 +33,6 @@ Diabetes is a critical public health issue, and understanding hospital trends ca
 4) **Github** - for data storage & version control
 5) **Excel** - data exploration
 
-
-## Data Sources:
-1) **`Research Literature:`**
-   
-   Diabetes Care 2024;47(Supplement_1):S52–S76
-   https://doi.org/10.2337/dc24-S004
-   
-   Diabetes Res Clin Pract. 2022 May; 187: 109862. doi:10.1016/j.diabres.2022.109862
-
-2) **`Data Source:`** <br />
-     https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
-     
-     Beata Strack et al., “Impact of  HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records,” BioMed Research International, vol.       2014, Article ID 781670, 11 pages, 2014.
-   
-     https://www.ahd.com/reference/ICD9desc_diag_CMS2015.pdf
-   
-     https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles
-
-3)  **`Definitions:`** [Merriam-Webster](https://www.merriam-webster.com/)
-
-
 ## Conclusion:
 1) **`Demographic Profile: `** <br />
    ➡ **Minimal variability:** Mainly Caucasian women <br />
@@ -78,3 +57,23 @@ Diabetes is a critical public health issue, and understanding hospital trends ca
   ➡ **Care Coordinators:** Focus on frequent emergency room patients to prevent readmissions. <br />
   ➡ **Quality Teams:** Use data-driven insights to improve diabetes prevention programs. <br />
   ➡ **Patients:** Encourage consistent primary care engagement instead of emergency room reliance. <br />
+
+
+## Data Sources:
+1) **`Research Literature:`**
+   
+   Diabetes Care 2024;47(Supplement_1):S52–S76
+   https://doi.org/10.2337/dc24-S004
+   
+   Diabetes Res Clin Pract. 2022 May; 187: 109862. doi:10.1016/j.diabres.2022.109862
+
+2) **`Data Source:`** <br />
+     https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+     
+     Beata Strack et al., “Impact of  HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records,” BioMed Research International, vol.       2014, Article ID 781670, 11 pages, 2014.
+   
+     https://www.ahd.com/reference/ICD9desc_diag_CMS2015.pdf
+   
+     https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles
+
+3)  **`Definitions:`** [Merriam-Webster](https://www.merriam-webster.com/)
